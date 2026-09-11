@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+results_*.json
+r[0-9].json
+rr.json
+server.log
